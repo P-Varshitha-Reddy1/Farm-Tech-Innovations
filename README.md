@@ -11,9 +11,6 @@ To get started with this project, follow these steps:
 
 2. **GitHub Desktop**: Install GitHub Desktop to easily manage and synchronize your repository. You can download it from [desktop.github.com](https://desktop.github.com/).
 
-### Installation
 
-1. **Clone the Repository**:
-
-   https://github.com/RithwikaNagula/FarmTech.git
+  
    Start the Development Server:  npm run dev
